@@ -1,10 +1,11 @@
 import LogoClock from '../assets/logo.svg';
+import * as S from "./style"
 
 const Logo = () => {
 
-    return <div>
+    return <S.NavItem>
         <img src={LogoClock} alt="Logo do E-ponto em forma de um relogio" />
-    </div>
+        </S.NavItem>
 
 
 }
