@@ -21,6 +21,7 @@ width: 100%;
 margin: auto;
 
 
+
 }
 
 @media(min-width: 1024px) {

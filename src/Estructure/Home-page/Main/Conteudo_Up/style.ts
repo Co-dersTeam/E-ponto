@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const Container = styled.div`
+export const Container = styled.main`
 
 display: flex;
 flex-direction: row;
@@ -11,14 +11,11 @@ flex-direction: row;
     width: 50%;
 }
 
-.gestorzin {
-    margin-left: 90px;
-}
+
 
 h1 {
     margin-top: 11px;
     margin-bottom: 20px;
-    padding-right: 94px;
     font-size: 2.5vw;
     font-weight: 400;
     color: white;
@@ -27,7 +24,6 @@ h1 {
 }
 
 h5 {
-    padding-right: 170px;
     font-weight: normal;
     font-size: 25px;
     line-height: 30px;

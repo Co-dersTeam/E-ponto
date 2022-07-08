@@ -19,7 +19,7 @@ export const response = styled.header`
 }
 
 .logo{
-    float: right;
+    padding-left: 60%;
 }
 
     .response-delete {
