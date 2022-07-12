@@ -15,7 +15,7 @@ const Conteudo_up = () => {
           de trabalho da sua equipe.</h5>
 
     </div>  
-    <div className="Conteudo">
+    <div className="Conteudo-2">
       <img className="gestorzin" src={gestor} alt="" />
     </div> 
     </S.Container>

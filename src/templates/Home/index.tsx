@@ -13,7 +13,7 @@ const Home = () =>{
         <Header></Header>
         <Main></Main>
     </S.Container>
-    <Footer></Footer>
+
     </> 
     
 };
